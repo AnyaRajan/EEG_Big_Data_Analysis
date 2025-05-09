@@ -88,27 +88,3 @@ Data collected during 3 key windows:
 - Each trial = a single decision (explore/exploit)
 
 
-## 📂 Folder Structure 
-
-```bash
-project-root/
-│
-├── data/
-│   ├── eeg_raw/
-│   ├── behavioral/
-│   └── processed/
-│
-├── notebooks/
-│   ├── ERP_Coherence.ipynb
-│   ├── PAC_Analysis.ipynb
-│   └── SampleEntropy_Feature.ipynb
-│
-├── models/
-│   └── model_training_scripts/
-│
-├── results/
-│   ├── plots/
-│   └── metrics/
-│
-├── README.md
-└── requirements.txt
